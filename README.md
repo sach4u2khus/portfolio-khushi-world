@@ -1,65 +1,79 @@
-![Logo](cp.png)
+![Logo](protfile/images/pf.png)
 
-# Amine Portfolio Showcase 💻
+# 🌐 Modern Portfolio Website
 
-Welcome to Amine's Portfolio Showcase!
-A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using HTML, CSS, and JavaScript.
----
-
-## Live Demo 🚀
-
-You can view the live website here: [Live Demo](https://cozy-crisp-b269de.netlify.app/)
+A sleek, responsive, and interactive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
+Designed to showcase your skills, projects, and experience with elegant animations and smooth user interactions.
 
 ---
 
-## 🌟 Website Sections
-
-- **Home**: Developer introduction with avatar and short description  
-- **About**: Experience, tech stack, personal insights, and skill cards  
-- **Projects**: Showcase of projects with images, descriptions, and skills  
-- **Services**: Highlighting services offered with interactive cards  
-- **Contact**: Contact form and social links with interactive hover effects  
+## 🔗 Live Demo
+You can preview the portfolio locally by opening `index.html` in a modern browser.  
+Or access the online demo here: [Live Demo](https://dazzling-daffodil-0180fd.netlify.app/)
 
 ---
 
-## ⚡ Features
-
-- Clean & modern UI design
-- Smooth animations and transitions
-- Fully responsive (Desktop / Tablet / Mobile)
-- Interactive sections & hover effects
-- Clean and organized code structure
-- Fast performance & lightweight 
-
----
-
-## 🛠 Technologies Used
-
-- **HTML5** – Structure and semantic content  
-- **CSS3** – Styling, responsive layouts, Flexbox & Grid  
-- **JavaScript (Vanilla JS)** – Interactivity and animations  
-- **Font Awesome / Boxicons** – Icons  
-- **AOS.js** – Scroll animations  
+## 🧰 Tools & Technologies
+| Category | Tools Used |
+|-----------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6) |
+| **Styling** | Flexbox, Grid, Transitions, Keyframes |
+| **Icons** | Font Awesome / Boxicons |
+| **Typography** | Google Fonts |
+| **Animations** | Vanilla JS + CSS Animations |
+| **Version Control** | Git & GitHub |
+| **Deployment** | GitHub Pages |
 
 ---
 
-## License
+## 🧠 Customization
+You can easily customize the project by:
+- Editing your name, bio, and project details in `index.html`
+- Changing theme colors and fonts in `style.css`
+- Replacing the logo in `profile/images/logo.png`
+- Adjusting typing speed, animation timing, and scroll effects in `script.js`
 
-This project is licensed under the terms described in the [LICENSE](LICENSE) file.
+> 💡 Tip: Update the meta description and keywords in the `<head>` tag of `index.html` for better SEO.
 
 ---
 
-## 🚀 How to Use / Customize
+## 📂 Project Structure
 
-1. **Clone the repository:**
+```bash
+📦 modern-portfolio-website
+ ┣ 📜 index.html          # Main HTML file
+ ┣ 📜 style.css           # Website styling
+ ┣ 📜 script.js           # Main JavaScript file
+ ┣ 📂 assets              # Folder containing all assets
+ ┃ ┣ 📂 images            # Images and logos
+ ┃ ┣ 📂 icons             # SVGs or icons
+ ┃ ┗ 📂 fonts             # Custom fonts (optional)
+ ┗ 📜 README.md           # Project documentation
+```
+---
 
- ---
+
+## 🚀 How to Run Locally
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Saboo24/portfolio-website.git
+```
+### 2️⃣ Open the Folde
+```bash
+cd portfolio-website
+```
+3️⃣ Run the Website
+Open the file index.html directly in your browser — that’s it 🎉
+You’ll see your personal portfolio running locally
+
+---
 
 ## 📬 Contact
 
 - Email: aminehamzaoui1925@gmail.com   
 - Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
+- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b)  
 - GitHub: [GitHub](https://github.com/Saboo24)  
 - Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
 
@@ -68,5 +82,4 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 Made with ❤️ by **Amine Hamzaoui**
 
 
-```bash
-git clone https://github.com/Saboo24/portofolio8.git
+
