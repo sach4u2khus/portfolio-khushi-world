@@ -71,15 +71,15 @@ You’ll see your personal portfolio running locally
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: sachin4u2love@gmail.com   
+- Location: patna,bihar  
+- LinkedIn:   
+- GitHub: [GitHub]()  
+- Instagram: [Instagram](https://www.instagram.com/ihsukh_?igsh=MWQxYjl4Z3d3MDJ5bw==)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **sachin kr**
 
 
 
